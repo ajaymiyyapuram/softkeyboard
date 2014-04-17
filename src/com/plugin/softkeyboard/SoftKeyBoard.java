@@ -2,14 +2,9 @@ package com.plugin.softkeyboard;
 
 import org.json.JSONArray;
 import android.content.Context;
-import android.util.Log;
-import android.view.Display;
-import android.view.WindowManager;
 import android.view.inputmethod.InputMethodManager;
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;
-
-import com.alpinemetrics.utilities.AlpineMetricsApplication;
 
 public class SoftKeyBoard extends CordovaPlugin {
 
